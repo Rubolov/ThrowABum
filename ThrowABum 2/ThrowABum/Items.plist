@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Sprite</key>
+		<string>bum</string>
+		<key>Mass</key>
+		<real>0.95</real>
+		<key>XScale</key>
+		<real>0.45</real>
+		<key>YScale</key>
+		<real>0.4</real>
+		<key>Restitution</key>
+		<integer>0</integer>
+		<key>MinFlips</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>Sprite</key>
+		<string>bum1</string>
+		<key>Mass</key>
+		<integer>1</integer>
+		<key>XScale</key>
+		<real>0.45</real>
+		<key>YScale</key>
+		<real>0.4</real>
+		<key>Restitution</key>
+		<real>0.032</real>
+		<key>MinFlips</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Sprite</key>
+		<string>bum2</string>
+		<key>Mass</key>
+		<integer>1</integer>
+		<key>XScale</key>
+		<real>0.45</real>
+		<key>YScale</key>
+		<real>0.4</real>
+		<key>Restitution</key>
+		<real>0.09</real>
+		<key>MinFlips</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>Sprite</key>
+		<string>bum3</string>
+		<key>Mass</key>
+		<real>1.12</real>
+		<key>XScale</key>
+		<real>0.4</real>
+		<key>YScale</key>
+		<real>0.4</real>
+		<key>Restitution</key>
+		<real>0.12</real>
+		<key>MinFlips</key>
+		<integer>9</integer>
+	</dict>
+</array>
+</plist>
